@@ -90,19 +90,6 @@
 			<li><a href="">Pandolfi Bianca Maria</a></li>
 			<li><a href="">Vega Pazmino Cristopher Manuel</a></li>
 		</ul>
-
-
-		<?php
-			$cars = array("Volvo", "BMW", "Toyota"); 
-
-			var_dump($cars);
-			echo "<ul>";
-			foreach ($cars as $car){
-				echo "<li>$car</li>";
-			}
-
-			echo "</ul>";
-		?>
 	</body>
 </html>
 
